@@ -18,17 +18,17 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras des projets de **Data Science, Mach
 ### 📌 **Mes Projets**
 📂 **Formation OpenClassrooms**
 - [📊 Projet 1 : Analyse des données de systèmes éducatifs](https://github.com/JohanRocheteau/Formation_DS_P1_Analyse_Donnees_Education)  
-- [🏥 Projet 2 : Concevez une application au service de la santé publique](https://github.com/JohanRocheteau/Formation_DS_P2_Sante_Publique)  
-- [🏢 Projet 3 : Anticipez les besoins en consommation de bâtiments](https://github.com/JohanRocheteau/Formation_DS_P3_Consommation_Batiments)  
-- [🛒 Projet 4 : Segmentez des clients d'un site e-commerce](https://github.com/JohanRocheteau/Formation_DS_P4_Segmentation_Clients)  
-- [📦 Projet 5 : Classifiez automatiquement des biens de consommation](https://github.com/JohanRocheteau/Formation_DS_P5_Classification_Produits)  
-- [🏦 Projet 6 : Implémentez un modèle de scoring](https://github.com/JohanRocheteau/Formation_DS_P6_Scoring_Credit)  
-- [☁️ Projet 7 : Déployez un modèle dans le cloud](https://github.com/JohanRocheteau/Formation_DS_P7_Cloud_ML)  
+- [🏥 Projet 2 : Concevez une application au service de la santé publique](https://github.com/JohanRocheteau/Formation_DS_P2_Application_Sante_Publique)  
+- [🏢 Projet 3 : Anticipez les besoins en consommation de bâtiments](https://github.com/JohanRocheteau/Formation_DS_P3_Optimisation_Consommation_Batiments)  
+- [🛒 Projet 4 : Segmentez des clients d'un site e-commerce](https://github.com/JohanRocheteau/Formation_DS_P4_Analyse_Clients_E-commerce)  
+- [📦 Projet 5 : Classifiez automatiquement des biens de consommation](https://github.com/JohanRocheteau/Formation_DS_P5_Classif_Biens_Consommation)  
+- [🏦 Projet 6 : Implémentez un modèle de scoring](https://github.com/JohanRocheteau/Formation_DS_P6_ML_Scoring_Credit)  
+- [☁️ Projet 7 : Déployez un modèle dans le cloud](https://github.com/JohanRocheteau/Formation_DS_P7_Deploy_Modele_Cloud)  
 
 📂 **Projets Personnels et Bénévolat**
-- [🌍 Projet LPO-AURA : API Météo & PostgreSQL](https://github.com/JohanRocheteau/Projet_Benevolat_LPO_AURA)  
-- [🍄 Projet Perso : Classification des Champignons](https://github.com/JohanRocheteau/Projet_Perso_Classification_Champignons_ML)  
-- [🔗 Projet Perso : Expérimentation avec des APIs](https://github.com/JohanRocheteau/Projet_Perso_APIs)  
+- [🌍 Projet LPO-AURA : API Météo & PostgreSQL](https://github.com/JohanRocheteau/LPO_AURA_Benevolat_Collecte_Donnees_Meteorologiques)  
+- [🍄 Projet Perso : Classification des Champignons](https://github.com/JohanRocheteau/Projet_Perso_Classification_Champignons_Machine_Learning)  
+- [🔗 Projet Perso : Expérimentation avec des APIs](https://github.com/JohanRocheteau/Projet_Perso_Upskilling_APIs_Python_PowerBI)  
 
 ---
 
