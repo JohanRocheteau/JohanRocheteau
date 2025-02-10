@@ -1,35 +1,39 @@
-# 👋 Hello, moi c'est Johan Rocheteau !
+# 👋 Hello, je suis Johan Rocheteau !  
+## 📊 Data Scientist | Data Analyst | Passionné de Machine Learning  
 
-🎯 **Data Analyst / Data Scientist Junior** | 📊 Passionné par la **donnée** et son exploitation  
-
-💡 **Mon objectif ?** Exploiter la puissance des données pour créer des insights et des modèles prédictifs utiles.
-
-## 🔹 **À propos de moi**
-✔ 🔍 **Expertise en Data Science** : Machine Learning, NLP, Deep Learning, Data Visualisation  
-✔ 🛠️ **Compétences techniques** : Python (Pandas, Scikit-learn, TensorFlow, PySpark), SQL, Power BI  
-✔ ☁️ **Déploiement** : API Flask, Streamlit, AWS S3/EMR  
-✔ 📈 **Expérience** : Projets en formation & personnels, bénévolat (LPO-AURA)
+Bienvenue sur mon GitHub ! Ici, tu trouveras des projets de **Data Science, Machine Learning et Data Engineering** réalisés dans le cadre de formations et de travaux personnels. 📈💡  
 
 ---
 
-## 🚀 **Mes projets principaux**
-💻 Retrouvez tous mes projets [sur mon GitHub](https://github.com/JohanRocheteau)  
-
-📌 **Formation Data Science** :
-- 📊 [Analyse des systèmes éducatifs](https://github.com/JohanRocheteau/Formation_DS_P1_Analyse_Donnees_Education)  
-- 🏥 [Conception d’une application santé](https://github.com/JohanRocheteau/Formation_DS_P2_Application_Sante)  
-- 🔋 [Prédiction de la consommation énergétique](https://github.com/JohanRocheteau/Formation_DS_P3_Conso_Batiments)  
-- 🛍️ [Segmentation client e-commerce](https://github.com/JohanRocheteau/Formation_DS_P4_Segmentation_Clients)  
-- 🔍 [Scoring crédit](https://github.com/JohanRocheteau/Formation_DS_P6_Scoring_Credit)  
-- ☁️ [Déploiement d’un modèle dans le cloud](https://github.com/JohanRocheteau/Formation_DS_P7_Deploy_Model_Cloud)  
-
-📌 **Projets personnels & bénévolat** :
-- 🍄 [Classification des champignons](https://github.com/JohanRocheteau/Projet_Perso_Classification_Champignons_Machine_Learning)  
-- 🔗 [Exploration des APIs](https://github.com/JohanRocheteau/Projet_Perso_Exploration_APIs)  
-- 🦉 [Projet Bénévolat LPO-AURA](https://github.com/JohanRocheteau/Projet_Benevolat_LPO_AURA)  
+### 🚀 **Mes Compétences**
+- **Langages :** Python 🐍 (Pandas, NumPy, Scikit-learn, TensorFlow, Pytorch), SQL, VBA  
+- **DataViz :** Matplotlib, Seaborn, Power BI, Tableau  
+- **Bases de Données :** PostgreSQL, MySQL, MongoDB  
+- **Big Data & Cloud :** PySpark, AWS (S3, EMR, IAM)  
+- **Machine Learning :** NLP, Classification, Clustering, Modèles de régression  
+- **Outils :** Git/GitHub, Jupyter, Docker, FastAPI, Streamlit  
 
 ---
 
-## 📬 **Me contacter**
-📧 **Email :** [johan.rocheteau@hotmail.fr](mailto:johan.rocheteau@hotmail.fr)  
-🔗 **LinkedIn :** [linkedin.com/in/johan-rocheteau](https://www.linkedin.com/in/johan-rocheteau/)  
+### 📌 **Mes Projets**
+📂 **Formation OpenClassrooms**
+- [📊 Projet 1 : Analyse des données de systèmes éducatifs](https://github.com/JohanRocheteau/Formation_DS_P1_Analyse_Donnees_Education)  
+- [🏥 Projet 2 : Concevez une application au service de la santé publique](https://github.com/JohanRocheteau/Formation_DS_P2_Sante_Publique)  
+- [🏢 Projet 3 : Anticipez les besoins en consommation de bâtiments](https://github.com/JohanRocheteau/Formation_DS_P3_Consommation_Batiments)  
+- [🛒 Projet 4 : Segmentez des clients d'un site e-commerce](https://github.com/JohanRocheteau/Formation_DS_P4_Segmentation_Clients)  
+- [📦 Projet 5 : Classifiez automatiquement des biens de consommation](https://github.com/JohanRocheteau/Formation_DS_P5_Classification_Produits)  
+- [🏦 Projet 6 : Implémentez un modèle de scoring](https://github.com/JohanRocheteau/Formation_DS_P6_Scoring_Credit)  
+- [☁️ Projet 7 : Déployez un modèle dans le cloud](https://github.com/JohanRocheteau/Formation_DS_P7_Cloud_ML)  
+
+📂 **Projets Personnels et Bénévolat**
+- [🌍 Projet LPO-AURA : API Météo & PostgreSQL](https://github.com/JohanRocheteau/Projet_Benevolat_LPO_AURA)  
+- [🍄 Projet Perso : Classification des Champignons](https://github.com/JohanRocheteau/Projet_Perso_Classification_Champignons_ML)  
+- [🔗 Projet Perso : Expérimentation avec des APIs](https://github.com/JohanRocheteau/Projet_Perso_APIs)  
+
+---
+
+### 📫 **Me Contacter**
+📩 [Email](mailto:johan.rocheteau@hotmail.fr)  
+🔗 [LinkedIn](https://www.linkedin.com/in/johan-rocheteau/)  
+
+💡 **N'hésite pas à explorer mes projets et à me contacter pour toute opportunité !** 🚀
