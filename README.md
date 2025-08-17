@@ -10,10 +10,10 @@ Tu y trouveras des projets réalisés entre 2023 et 2025 dans le cadre de format
 
 - **Langages :** Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), SQL, VBA  
 - **Data Visualisation :** Power BI, Tableau, Matplotlib, Seaborn  
-- **Bases de Données :** PostgreSQL, MySQL, MongoDB  
+- **Bases de Données :** PostgreSQL, MySQL, MongoDB, SQLite  
 - **Big Data & Cloud :** PySpark, AWS (S3, EMR, IAM)  
 - **Machine Learning :** NLP, classification, clustering, modèles de régression  
-- **Outils :** Jupyter, Git/GitHub, Docker, FastAPI, Streamlit  
+- **Outils :** Jupyter, Git/GitHub, FastAPI, Streamlit  
 
 ---
 
