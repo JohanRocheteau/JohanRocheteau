@@ -31,7 +31,7 @@ Tu y trouveras des projets réalisés entre 2023 et 2025 dans le cadre de format
 
 ## 🤝 Projet bénévole (2024)
 
-- [Collecte météo & PostgreSQL – LPO AURA](https://github.com/JohanRocheteau/LPO_AURA_Benevolat_Collecte_Donnees_Meteorologiques)
+- LPO AURA[Collecte météo & PostgreSQL](https://github.com/JohanRocheteau/LPO_AURA_Benevolat_Collecte_Donnees_Meteorologiques)
 
 ---
 
