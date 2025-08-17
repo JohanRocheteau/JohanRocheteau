@@ -19,13 +19,13 @@ Tu y trouveras des projets réalisés entre 2023 et 2025 dans le cadre de format
 
 ## 🎓 Projets de formation Data Science (2023)
 
-- [Projet 1 – Analyse des données éducatives](https://github.com/JohanRocheteau/Formation_DS_P1_Analyse_Donnees_Education)  
-- [Projet 2 – Application santé publique](https://github.com/JohanRocheteau/Formation_DS_P2_Application_Sante_Publique)  
-- [Projet 3 – Optimisation consommation bâtiment](https://github.com/JohanRocheteau/Formation_DS_P3_Optimisation_Consommation_Batiments)  
-- [Projet 4 – Segmentation clients e-commerce](https://github.com/JohanRocheteau/Formation_DS_P4_Analyse_Clients_E-commerce)  
-- [Projet 5 – Classification de produits](https://github.com/JohanRocheteau/Formation_DS_P5_Classif_Biens_Consommation)  
-- [Projet 6 – Modèle de scoring crédit](https://github.com/JohanRocheteau/Formation_DS_P6_ML_Scoring_Credit)  
-- [Projet 7 – Déploiement dans le cloud (AWS)](https://github.com/JohanRocheteau/Formation_DS_P7_Deploy_Modele_Cloud)  
+- Projet 1 – [Analyse des données éducatives](https://github.com/JohanRocheteau/Formation_DS_P1_Analyse_Donnees_Education)  
+- Projet 2 – [Application santé publique](https://github.com/JohanRocheteau/Formation_DS_P2_Application_Sante_Publique)  
+- Projet 3 – [Optimisation consommation bâtiment](https://github.com/JohanRocheteau/Formation_DS_P3_Optimisation_Consommation_Batiments)  
+- Projet 4 – [Segmentation clients e-commerce](https://github.com/JohanRocheteau/Formation_DS_P4_Analyse_Clients_E-commerce)  
+- Projet 5 – [Classification de produits](https://github.com/JohanRocheteau/Formation_DS_P5_Classif_Biens_Consommation)  
+- Projet 6 – [Modèle de scoring crédit](https://github.com/JohanRocheteau/Formation_DS_P6_ML_Scoring_Credit)  
+- Projet 7 – [Déploiement dans le cloud (AWS)](https://github.com/JohanRocheteau/Formation_DS_P7_Deploy_Modele_Cloud)  
 
 ---
 
