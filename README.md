@@ -38,12 +38,12 @@ Tu y trouveras des projets réalisés entre 2023 et 2025 dans le cadre de format
 ## 🧪 Projets personnels
 
 **2024**
-- [Classification de champignons (Machine Learning)](https://github.com/JohanRocheteau/Projet_Perso_Classification_Champignons_Machine_Learning)  
-- [Exploration APIs & Power BI](https://github.com/JohanRocheteau/Projet_Perso_Upskilling_APIs_Python_PowerBI)  
-- [Portfolio Power BI – Projets autodidactes (2024)](https://github.com/JohanRocheteau/Portfolio-PowerBI-2024)  
+- Python Machine Learning - [Classification de champignons](https://github.com/JohanRocheteau/Projet_Perso_Classification_Champignons_Machine_Learning)  
+- Python API - [Exploration APIs](https://github.com/JohanRocheteau/Projet_Perso_Upskilling_APIs_Python_PowerBI)  
+- POWER BI - [Projets autodidactes](https://github.com/JohanRocheteau/Portfolio-PowerBI-2024)  
 
 **2025**
-- [Portfolio SQL – Analyste Junior](https://github.com/JohanRocheteau/portfolio-sql-2025)
+- SQL - [Analyste Junior](https://github.com/JohanRocheteau/portfolio-sql-2025)
 ---
 
 ## 📫 Me contacter
