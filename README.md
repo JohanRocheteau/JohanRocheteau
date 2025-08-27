@@ -1,23 +1,23 @@
 # Hello, je suis Johan Rocheteau  
-## Data Scientist & Data Analyst – Passionné par la donnée et l'apprentissage continu
+## Data Scientist & Data Analyst – passionné par la donnée et l'apprentissage continu
 
 Bienvenue sur mon GitHub.  
-Tu y trouveras des projets réalisés entre 2023 et 2025 dans le cadre de formations, de missions bénévoles ou de travaux personnels.
+Tu y trouveras des projets réalisés entre 2023 et 2025 dans le cadre de formations, de missions bénévoles ou de projets personnels.
 
 ---
 
-## 🧠 Compétences clés
+## Compétences clés
 
 - **Langages :** Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), SQL, VBA  
-- **Data Visualisation :** Power BI, Tableau, Matplotlib, Seaborn  
-- **Bases de Données :** PostgreSQL, MySQL, MongoDB, SQLite  
+- **Data visualisation :** Power BI, Tableau, Matplotlib, Seaborn  
+- **Bases de données :** PostgreSQL, MySQL, MongoDB, SQLite  
 - **Big Data & Cloud :** PySpark, AWS (S3, EMR, IAM)  
-- **Machine Learning :** NLP, classification, clustering, modèles de régression  
+- **Machine learning :** NLP, classification, clustering, modèles de régression  
 - **Outils :** Jupyter, Git/GitHub, FastAPI, Streamlit  
 
 ---
 
-## 🎓 Projets de formation Data Science (2023)
+## Projets de formation – Data Science (2023)
 
 - Projet 1 – [Analyse des données éducatives](https://github.com/JohanRocheteau/Formation_DS_P1_Analyse_Donnees_Education)  
 - Projet 2 – [Application santé publique](https://github.com/JohanRocheteau/Formation_DS_P2_Application_Sante_Publique)  
@@ -29,24 +29,25 @@ Tu y trouveras des projets réalisés entre 2023 et 2025 dans le cadre de format
 
 ---
 
-## 🤝 Projet bénévole (2024)
+## Projet bénévole – 2024
 
-- LPO AURA - [Collecte météo & PostgreSQL](https://github.com/JohanRocheteau/LPO_AURA_Benevolat_Collecte_Donnees_Meteorologiques)
+- LPO AURA – [Collecte météo & PostgreSQL](https://github.com/JohanRocheteau/LPO_AURA_Benevolat_Collecte_Donnees_Meteorologiques)
 
 ---
 
-## 🧪 Projets personnels
+## Projets personnels
 
 **2024**
-- Python Machine Learning - [Classification de champignons](https://github.com/JohanRocheteau/Projet_Perso_Classification_Champignons_Machine_Learning)  
-- Python API - [Exploration APIs](https://github.com/JohanRocheteau/Projet_Perso_Upskilling_APIs_Python_PowerBI)  
-- POWER BI - [Projets autodidactes](https://github.com/JohanRocheteau/Portfolio-PowerBI-2024)  
+- Python / Machine learning – [Classification de champignons](https://github.com/JohanRocheteau/Projet_Perso_Classification_Champignons_Machine_Learning)  
+- Python / APIs – [Exploration d’APIs et création avec FastAPI](https://github.com/JohanRocheteau/Projet_Perso_Upskilling_APIs_Python_PowerBI)  
+- Power BI – [Portfolio Power BI](https://github.com/JohanRocheteau/Portfolio-PowerBI-2024)  
 
 **2025**
-- SQL - [Analyste Junior](https://github.com/JohanRocheteau/portfolio-sql-2025)
+- SQL – [Portfolio SQL – Analyste junior](https://github.com/JohanRocheteau/portfolio-sql-2025)
+
 ---
 
-## 📫 Me contacter
+## Me contacter
 
-📧 johan.rocheteau@hotmail.fr  
+📧 [johan.rocheteau@hotmail.fr](mailto:johan.rocheteau@hotmail.fr)  
 🔗 [LinkedIn – Johan Rocheteau](https://www.linkedin.com/in/johan-rocheteau)
